@@ -2,7 +2,8 @@
 
 This is an application that generates random Kanye West quotes. It utilizes the Kanye API to fetch random quotes from Kanye West himself. The generated quotes can be displayed on the screen or exported as an image using the html2canvas library.
 
-![Kanye West](https://drive.google.com/file/d/1yyqUkRKzjwiSIdMGSRGpZaBooDw_sr1z/view?usp=drive_link)
+![Kanye West](<img width="1680" alt="Screenshot 2023-07-17 at 11 21 27 PM" src="https://github.com/aryan-139/kanye-wisdom/assets/62373648/a2d5cfc5-902c-4648-b016-b4500ee97e91">
+)
 
 ## Tech Stack
 
